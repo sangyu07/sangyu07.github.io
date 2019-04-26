@@ -70,6 +70,8 @@ footer .row {
 }
 
 header h1 {
+  font-family: "comic sans MS", cursive, sans-serif;
+  color: 4596FF; 
   font-size: 32px
   font-weight: 700;
   margin: 0;
