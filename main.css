@@ -39,13 +39,13 @@
 #firstquote{
   color: purple;
   font-size: 25px;
-  font-family: cursive;
+  font-family:Lucida Console, courier, monospace; 
 }
 
 #secondquote{
   color: grey;
   font-size: 23px;
-  font-family: fantasy;
+  font-family: Lucida Console, courier, monospace; 
 }
 
 #thirdquote{
