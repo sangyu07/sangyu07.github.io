@@ -5,6 +5,12 @@
 .topthreeparagraphs{
   color:blue;
 }
+#fav{
+  font-size: 35px;
+  font-weight: 800;
+  text-align: center;
+  color: black;
+}
 
 #firstfav{
   font-size:32px;
