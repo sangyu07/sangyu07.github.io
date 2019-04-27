@@ -7,6 +7,12 @@
 .topthreeparagraphs{
   color:blue;
 }
+#aboutme{
+  font-size: 35px;
+  font-weight: 800;
+  text-align: center;
+  color: black;
+}
 #favorite{
   font-size: 35px;
   font-weight: 800;
